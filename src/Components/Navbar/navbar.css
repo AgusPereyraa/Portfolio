@@ -1,0 +1,7 @@
+a {
+    transition: color .6s;
+}
+a:hover {
+    transition: ease-in-out .7s;
+    color: #8ac9e2;
+}
